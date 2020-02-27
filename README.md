@@ -4,7 +4,7 @@
 ![base](https://img.shields.io/badge/base-gin-blue.svg)
 ![base](https://img.shields.io/badge/base-casbin-blue.svg)
 
-> 一个Go Web Api 服务, 包含 用户、权限、菜单、动作、资源、JWT等，可以用于快速构建私活项目的RBAC后台
+> 一个Go Web Api 服务, 包含 用户、权限、菜单、动作、资源、JWT等，可以用于快速构建项目的RBAC后台
 
 ## 目录结构
 * conf: 用于存储配置文件
